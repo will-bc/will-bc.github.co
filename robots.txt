@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://will-bc.github.io/sitemap.xml
