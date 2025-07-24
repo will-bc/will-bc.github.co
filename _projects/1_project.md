@@ -1,8 +1,8 @@
----
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c66a57f5-2c4f-4d10-8f01-6f2071e55669" />---
 layout: page
-title: project 1
+title: Open Hardware
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/openhardware.jpg
 importance: 1
 category: work
 related_publications: true
