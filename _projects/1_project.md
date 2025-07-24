@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open Hardware
-description: with background image
+description: Bootcamp do Laboratório de Design e Fabricação Digital
 img: assets/img/12.jpg
 importance: 1
 category: work
