@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c66a57f5-2c4f-4d10-8f01-6f2071e55669" />---
+>---
 layout: page
 title: Open Hardware
 description: with background image
