@@ -446,7 +446,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-open-hardware",
           title: 'Open Hardware',
-          description: "with background image",
+          description: "Bootcamp do Laboratório de Design e Fabricação Digital",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
