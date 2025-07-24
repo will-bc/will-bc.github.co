@@ -1,4 +1,4 @@
->---
+---
 layout: page
 title: Open Hardware
 description: with background image
