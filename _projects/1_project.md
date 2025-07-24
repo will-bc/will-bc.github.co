@@ -2,15 +2,13 @@
 layout: page
 title: Open Hardware
 description: Bootcamp do Laboratório de Design e Fabricação Digital
-img: assets/img/12.jpg
+img: assets/img/openhardware.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
  A ideia é criar uma rede colaborativa onde qualquer pessoa – de estudantes a pesquisadores e entusiastas – possa participar do desenvolvimento de diversos dispositivos open hardware, como sensores, controladores e ferramentas úteis para educação, pesquisa e até soluções do dia a dia. Queremos que cada protótipo desenvolvido seja aberto, bem documentado e fácil de reproduzir, permitindo que qualquer um possa adaptar ou melhorar os equipamentos conforme suas necessidades. Mais do que construir coisas, queremos construir juntos, conectando pessoas e saberes para mostrar que inovação pode (e deve) ser acessível a todos.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
